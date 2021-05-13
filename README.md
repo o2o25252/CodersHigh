@@ -7,3 +7,11 @@
 - [ColorMix App](https://github.com/o2o25252/CodersHigh/tree/main/ColorMix)
 - [AnimalSound App](https://github.com/o2o25252/CodersHigh/tree/main/AnimalSound)
 - [SimpleCenter App](https://github.com/o2o25252/CodersHigh/tree/main/SimpleCenter)
+
+
+---
+
+#### 1 weak ! 
+
+##### 스큐어모피즘과 플랫디자인
+##### ADS , 페르소나 , 멘탈모델
